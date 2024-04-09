@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import ImageIO
 
 @main
 struct ColorCCApp: App {

@@ -14,6 +14,8 @@
 		82F5C6502BC4136300F5E51F /* ColorCCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F5C64F2BC4136300F5E51F /* ColorCCTests.swift */; };
 		82F5C65A2BC4136300F5E51F /* ColorCCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F5C6592BC4136300F5E51F /* ColorCCUITests.swift */; };
 		82F5C65C2BC4136300F5E51F /* ColorCCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F5C65B2BC4136300F5E51F /* ColorCCUITestsLaunchTests.swift */; };
+		82F5C6682BC4142C00F5E51F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F5C63F2BC4135E00F5E51F /* ContentView.swift */; };
+		82F5C66A2BC4143100F5E51F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F5C63F2BC4135E00F5E51F /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -268,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82F5C6682BC4142C00F5E51F /* ContentView.swift in Sources */,
 				82F5C6502BC4136300F5E51F /* ColorCCTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -278,6 +281,7 @@
 			files = (
 				82F5C65C2BC4136300F5E51F /* ColorCCUITestsLaunchTests.swift in Sources */,
 				82F5C65A2BC4136300F5E51F /* ColorCCUITests.swift in Sources */,
+				82F5C66A2BC4143100F5E51F /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
